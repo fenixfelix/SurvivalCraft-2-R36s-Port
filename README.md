@@ -1,7 +1,5 @@
 # Survivalcraft 2 / R36S — local APK preparer
 
-**Private functional prototype. Do not publish this complete ZIP as a cleared release.**
-
 This preparer asks for the user's own APK and creates the existing DarkOSRE ARM64 port locally. It does not contain an APK, complete game assemblies, the complete game source tree, or a standalone game content package. It does include binary patches that contain replacement bytes derived from the adapted build. These patches still require rights review before public distribution. Requiring a personal APK is not a legal clearance.
 
 ## Prepare on Windows
