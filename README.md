@@ -86,5 +86,3 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Prepare-Port.ps1 -Cli 
 - The complete prototype and the recipe are **not cleared for public release**. The generated game folder also contains protected game material.
 - Written permission covering adaptation/patch distribution, or another established legal basis reviewed for this project, is still needed before presenting the recipe as distributable.
 - The .NET runtime has its own MIT license and third-party notices. Both remain in the generated runtime folder. This does not license the game or its patches.
-
-No licensing assurance is implied by the tool's checksums. See VALIDATION.md for exactly what was tested.
