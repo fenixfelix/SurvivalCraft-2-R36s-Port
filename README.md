@@ -84,7 +84,7 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\Prepare-Port.ps1 -Cli 
 - `Public-Tools-Only.zip` contains the new preparer scripts and English documentation, without the recipe, runtime or patch bytes. It is a tools-only package and is not sufficient for a new player to install the game.
 - `port_recipe.zip` contains three differential patches, runtime/support files and a checksum manifest. Its patches total 1,982,473 literal replacement bytes before compression. Some of those bytes can represent adapted or original game expression; a binary delta is not automatically copyright-free.
 - The complete prototype and the recipe are **not cleared for public release**. The generated game folder also contains protected game material.
-- Written permission covering adaptation/patch distribution, or another established legal basis reviewed for this project, is still needed before presenting the recipe as distributable. See the official Brazilian Software Law: https://www2.camara.leg.br/legin/fed/lei/1998/lei-9609-19-fevereiro-1998-364738-normaatualizada-pl.html .
+- Written permission covering adaptation/patch distribution, or another established legal basis reviewed for this project, is still needed before presenting the recipe as distributable.
 - The .NET runtime has its own MIT license and third-party notices. Both remain in the generated runtime folder. This does not license the game or its patches.
 
 No licensing assurance is implied by the tool's checksums. See VALIDATION.md for exactly what was tested.
